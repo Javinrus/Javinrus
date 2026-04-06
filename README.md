@@ -1,4 +1,4 @@
-# Hello folks
+# Hello
 
 ![Stats](./profile/stats.svg)
 
