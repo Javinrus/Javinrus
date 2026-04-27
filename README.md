@@ -5,3 +5,5 @@
 
 [![Matrix](https://img.shields.io/badge/Matrix-@javinrus:unredacted.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@javinrus:unredacted.org)
 
+![Linux](linux-desktop.gif)
+
