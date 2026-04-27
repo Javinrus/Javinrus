@@ -1,12 +1,18 @@
 <h1 align="center">Hi, Javin's here! 👋</h1>
 
-<img align="left" height="300" src="linux-desktop.gif"/>
+###
 
-<img align="right" height="300" src="./profile/stats.svg"/>
+<img align="right" height="300" src="linux-desktop.gif"/>
 
-<img align="right" height="300" src="./profile/top-langs.svg"/>
+###
 
-g
+<p align="left "><br><br><br><br><br><br><br></p>
+
+###
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 # Test
 
