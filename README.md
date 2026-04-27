@@ -1,4 +1,4 @@
-# Hi, Javin's here! 👋
+# Hi, Javin's here
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
