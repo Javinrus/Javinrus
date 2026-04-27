@@ -1,6 +1,6 @@
 # About Me
 
-<img align="right" src="linux-desktop.gif" width="400"/>
+<img align="right" src="linux-desktop.gif" width="300"/>
 
 Example message
 
