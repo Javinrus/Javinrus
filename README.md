@@ -1,9 +1,13 @@
 # About Me
 
+<img align="right" src="linux-desktop.gif" width="540"/>
+
+Example message
+
 ![Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
 
-[![Matrix](https://img.shields.io/badge/Matrix-@javinrus:unredacted.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@javinrus:unredacted.org)
+# Test
 
-<img src="linux-desktop.gif" width="500"/>
+[![Matrix](https://img.shields.io/badge/Matrix-@javinrus:unredacted.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@javinrus:unredacted.org)
