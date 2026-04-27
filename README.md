@@ -1,8 +1,6 @@
-# About Me
+<h1 align="center">Hi, Javin's here! 👋</h1>
 
-<img align="right" src="linux-desktop.gif" width="300"/>
-
-Example message
+<img align="left" height="300" src="linux-desktop.gif"/>
 
 ![Stats](./profile/stats.svg)
 
