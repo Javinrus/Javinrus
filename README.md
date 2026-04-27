@@ -8,3 +8,4 @@
 <!-- Nord theme is my favorite -->
 <!-- There's nothing to add yet, do other things first then we go -->
 <!-- Just a reminder so I don't get frickin distracted again -->
+<!-- Until I make something pretty meaningful, don't touch this -->
