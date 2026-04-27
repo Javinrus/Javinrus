@@ -2,9 +2,11 @@
 
 <img align="left" height="300" src="linux-desktop.gif"/>
 
-![Stats](./profile/stats.svg)
+<img align="right" height="300" src="./profile/stats.svg"/>
 
-![Top Languages](./profile/top-langs.svg)
+<img align="right" height="300" src="./profile/top-langs.svg"/>
+
+g
 
 # Test
 
