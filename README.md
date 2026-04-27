@@ -1,19 +1,9 @@
-<h1 align="center">Hi, Javin's here! 👋</h1>
-
-###
-
-<img align="right" height="300" src="linux-desktop.gif"/>
-
-###
-
-<p align="left "><br><br><br><br><br><br><br></p>
-
-###
+# Hi, Javin's here! 👋
 
 ![Stats](./profile/stats.svg)
-
 ![Top Languages](./profile/top-langs.svg)
 
-# Test
+[//]: Cat
 
 [![Matrix](https://img.shields.io/badge/Matrix-@javinrus:unredacted.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@javinrus:unredacted.org)
+
