@@ -1,11 +1,13 @@
 # Hi, Javin's here
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+An average [Artix Linux](https://artixlinux.org/) enjoyer, likes programming, and of course video games.
+
+<details>
+  <summary>GitHub Stats</summary>
+
+  ![Stats](./profile/stats.svg)
+  
+  ![Top Languages](./profile/top-langs.svg)
+</details>
 
 [![Matrix](https://img.shields.io/badge/Matrix-@javinrus:unredacted.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@javinrus:unredacted.org)
-
-<!-- Nord theme is my favorite -->
-<!-- There's nothing to add yet, do other things first then we go -->
-<!-- Just a reminder so I don't get frickin distracted again -->
-<!-- Until I make something pretty meaningful, don't touch this -->
