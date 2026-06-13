@@ -8,9 +8,9 @@ Some repos are also on tangled.org, for backup purposes. You can find them [here
 
 <details>
   <summary>GitHub Stats</summary>
-
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
+  
+  <img height=200 align="center" src="./profile/stats.svg" />
+  <img height=200 align="center" src="./profile/top-langs.svg" />
   
 </details>
 
