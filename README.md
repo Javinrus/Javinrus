@@ -1,13 +1,17 @@
 # Hi, Javin's here
 
-An average [Artix Linux](https://artixlinux.org/) enjoyer, likes programming, and of course video games.
+<!-- Insert funny image here -->
+
+I daily drive [Artix Linux](https://artixlinux.org/) and do some programming, but of course also video games. My favorite colorscheme is Nord!
+
+Some repos are also on tangled.org, for backup purposes. You can find them [here](https://tangled.org/javinrus.tngl.sh?tab=repos)
 
 <details>
   <summary>GitHub Stats</summary>
 
   ![Stats](./profile/stats.svg)
-  
   ![Top Languages](./profile/top-langs.svg)
+  
 </details>
 
-[![Matrix](https://img.shields.io/badge/Matrix-@javinrus:unredacted.org-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@javinrus:unredacted.org)
+<!-- End of line, reminder for myself to not get distracted and do something else first -->
