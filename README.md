@@ -2,7 +2,7 @@
 
 <!-- Insert funny image here -->
 
-I daily drive [Artix Linux](https://artixlinux.org/) and do some programming, but of course also video games. My favorite colorscheme is Nord!
+I daily drive [Artix Linux](https://artixlinux.org/) and do some programming, but of course also video games. I also very much love cats!
 
 Some repos are also on tangled.org, for backup purposes. You can find them [here](https://tangled.org/javinrus.tngl.sh?tab=repos)
 
