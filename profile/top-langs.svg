@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="203.02"
+          width="142.52"
           height="8"
           fill="#000080"
         />
@@ -138,21 +138,21 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="203.02"
+          x="142.52"
           y="0"
-          width="44.63"
+          width="76.15"
           height="8"
-          fill="#89e051"
+          fill="#1e4aec"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.65"
+          x="218.67000000000002"
           y="0"
-          width="12.35"
+          width="31.33"
           height="8"
-          fill="#1e4aec"
+          fill="#89e051"
         />
       
       
@@ -161,21 +161,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 81.21%
+        Lua 57.01%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#1e4aec" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 17.85%
+        Scheme 30.46%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#1e4aec" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Scheme 0.94%
+        Shell 12.53%
       </text>
     </g>
   </g></g>
