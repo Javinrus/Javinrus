@@ -2,7 +2,7 @@
 
 <!-- Insert funny image here -->
 
-I daily drive [Artix Linux](https://artixlinux.org/) and do some programming, but of course also video games. For some reasons, I am inclined to like javelins, does it matter? `¯\_(ツ)_/¯`
+I daily drive [Artix Linux](https://artixlinux.org/) and do some programming stuffs, but of course also video games.
 
 Some repos are also on tangled.org, for backup purposes. You can find them [here](https://tangled.org/javinrus.tngl.sh?tab=repos)
 
@@ -13,5 +13,3 @@ Some repos are also on tangled.org, for backup purposes. You can find them [here
   <img height=200 align="center" src="./profile/top-langs.svg" />
   
 </details>
-
-<!-- End of line, reminder for myself to not get distracted and do something else first -->
