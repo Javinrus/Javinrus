@@ -2,7 +2,7 @@
 
 <!-- this README.md is so incomplete -->
 
-I am a novice software developer, learning [Zig](https://ziglang.org/) and also game development. I use [Artix Linux](https://artixlinux.org/) as my daily-driver but recently have been trying out FreeBSD since I got interested in it. I guess that's all for now. `:O`
+I am a novice software developer, learning [Zig](https://ziglang.org/) and also game development. I use [Artix Linux](https://artixlinux.org/) as my daily-driver but recently have been trying out FreeBSD since I got interested in it.
 
 I like [Hyprland](https://hypr.land/) and many more open source software.
 
@@ -18,7 +18,7 @@ Some people might know me as `Mindstorming` or `Xeljavin` on other spaces. Yes, 
 
 <details>
 
-<summary>hidden message</summary>
+<summary>Hidden message</summary>
 
 <!-- insert sheep here -->
 
